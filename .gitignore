@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.DS_Store
+.vscode
+
+furniture-store-client/node_modules
+furniture-store-client/dist
+furniture-store-client/.env
+
+server/node_modules
+server/.env
